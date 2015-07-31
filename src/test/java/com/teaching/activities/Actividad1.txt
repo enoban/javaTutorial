@@ -1,0 +1,23 @@
+Activity 1: Design the UML diagram and the respective class according to the following description.
+
+Hello. My name is Odin. I am the main god from norse mythology. I have power over many things, such
+as healing, death, royalty, the gallows, knowledge, battle, sorcery, poetry, frenzy and the runic
+alphabet. I am married to Figg.
+
+I am also known by different names in different languages, such as Wóden in Old English, Wöden in old
+Saxon and Wuotan in Old High German language.
+
+I also have many sons. Some of them are Thor, Baldr, Bidarr, and Váli. Other people relate more gods
+as my sons, such as Heimdallr, Gragi, Tyr, and Hod. And oh, I live in Vallhala.
+
+I can, with the aid of my powers, turn people into harmless sheep. I call this power "sheep for a day".
+I can also give life to inanimate things, such as rocks. I call this power "live and walk".
+I can... well... control weather. I can make heavens rain, droughts last for a long time, generate
+hazes, start tornadoes and create hurricantes. I call them "rainy rainy", "hot as hell", "marble rain",
+"spin me round round" and "wind and rain" respectively.
+
+I only have to say a phrase for each of my powers to make them become real.
+
+And oh... if anyone needs to know information about me, they must ask me for it, not just read my mind.
+And also, if anyone needs to modify the information about my wife, my sons, my powers or my alternative
+names, they should also ask me for it.
