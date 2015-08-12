@@ -31,4 +31,8 @@ Logic practice: to traing your programming skills and your logic thinking.
 12. A method to convert from decimal to binary. The given number must be a positive integer. The output must be in String format.
     For example, if 5 is provided, the result must be "101"
 
-In general: All the methods must be received as parameters
+In general:
+- All the methods must be received as parameters
+- The values to test each method should be asked to the user
+- The main class should be in another class, called LogicTests
+
