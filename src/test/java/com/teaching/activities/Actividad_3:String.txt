@@ -1,0 +1,33 @@
+String operations:
+
+The objective of this activity is to learn how to use the strings already implemented in strings to create self built functions.
+Reference can be found in https://docs.oracle.com/javase/8/docs/api/java/lang/String.html
+
+Note:
+* All functions may receive parameters to evaluate their content.
+
+1. Create a method named "countChars" that counts the number of times a given character is contained in a given string.
+   For example, if "This is a sentence" is provided and the character to find is "e", then this function may return a 3.
+   If the character to find is "o", then this function may return 0.
+
+2. Create a method named "insertAt" that inserts a character in a given position of the string.
+   Take in account the first position of the String is always 0.
+   For example, if "This is a sentence" is provided, the character to insert is "x" and the position is 3, then this function
+   may return "Thixs is a sentence".
+
+3. Create a method named "replaceLast" that replaces the last ocurrence of a char sequence in a string for another string.
+   For example, if "This is a plant, this is an egg, this is a fruit" is provided, the sequence to be found is "this" and the replacement is "another"
+   then this function may return "This is a plant, this is an egg, another is a fruit".
+
+4. Create a method named "timesContained" that counts the number of times a char sequence is contained in a string.
+   For example, if "This is a plant, this is an egg, this is a fruit" is provided and the sequence to be found is "this", then this
+   function may return 3.
+
+5. Cesarian encryption: This consists by replacing the characters contained in a string by the characters located in another position, given a
+   fixed pattern. For example, letters can be shifted exactly three positions, which means the following
+   A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+   D E F G H I J K L M N O P Q R S T U V W X Y Z A B C
+
+   Any "a" will become a "d", any "b" will become an "e" and so on.
+   Implement a method that makes a caesarian encryption to a given string, from the given pattern provided above.
+   If "Hello world" is provided, then "Khoor aruog" is the expected output.
