@@ -1,4 +1,4 @@
-Logic practice: to traing your programming skills and your logic thinking.
+Logic practice: to trainig your programming skills and your logic thinking.
 
 - Implement a new class, called LocigExamples. It must implement:
 1. A way to sum two numbers. The two numbers can be integers or floating point numbers.
